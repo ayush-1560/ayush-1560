@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ayush-1560
-- 👀 I’m interested in becoming a software developer at a Product Based Company.
-- 🌱 I’m currently learning C++ with DSA and building projects on web development domain
+- 🌱 I’m currently working at Amazon as a Software Engineer
   
 
 <!---
